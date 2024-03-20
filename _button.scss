@@ -1,0 +1,19 @@
+.button {
+  background: var(--gradient-color);
+  padding: 12px;
+  color: white;
+  border-radius: 64px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: var(--font-semi-bold);
+  column-gap: 8px;
+  transition: all 0.6s;
+  i {
+    color: var(--first-color);
+    font-size: 32px;
+  }
+  &:hover {
+    box-shadow: 0 12px 32px hsla(23, 100%, 50%, 0.2);
+  }
+}
