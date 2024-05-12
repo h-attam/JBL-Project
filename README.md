@@ -15,16 +15,6 @@ Responsive bir proje geliştirildi.Bu depo, JBL markası altında geliştirilen 
 # GIF
 ![](images/jblgif.gif)
 
-# Ekran Görüntüleri
-![](images/Ekran%20Alıntısı1.PNG)
-
-![](images/Ekran%20Alıntısı2.PNG)
-
-![](images/Ekran%20Alıntısı3.PNG)
-
-![](images/Ekran%20Alıntısı4.PNG)
-
-![](images/Ekran%20Alıntısı5.PNG)
 
 
 
